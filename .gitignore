@@ -1,4 +1,8 @@
 # Logs
+
+solved_sudoku.json
+sudoku.json
+
 logs
 *.log
 npm-debug.log*
